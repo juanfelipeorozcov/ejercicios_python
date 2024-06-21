@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="40b22d58-b93c-49af-b2c1-fae7a86ce01c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dia 4/comprension de listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/control de flujo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/ejercicio de rangos max y minimos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/loops o bucle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/myramdom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/nuevo match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/proyecto del dia 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 4/zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/argumentos definidos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/argumentos indefinidos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/crear propias funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/ejemplo de funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/ejercicios de metodos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/experimentos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/funcion lanzar moneda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/funciones dinamicas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/funciones interactuan entre si.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/funciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/lanzar dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/problemas practicos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/proyecto ahorcado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 5/return.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/abrir y man archivos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/entrada salida1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/funciones recursivas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/nelson/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/nelson/clase_carros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/nelson/herencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/nelson/pipenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/practicas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dia 6/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio de recursividad.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios solos/claases con nelson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicios solos/tareasnelson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/excepciones y decoradores .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listas doblemente enlasadas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia 2/formatear cadenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia 2/formatear cadenas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia 2/operadores matematicos.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia 2/operadores matematicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia 2/practicas.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia 2/practicas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dia 4/operadore de comperacion.py" beforeDir="false" afterPath="$PROJECT_DIR$/dia 4/operadore de comperacion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejercicios lulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ejercicios lulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primer ejercicio.py" beforeDir="false" afterPath="$PROJECT_DIR$/primer ejercicio.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RTLPFrypf09WhTtJFg0JPmHblv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Juan Felipe/PycharmProjects/ejercicios&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.trabajo del dia 2">
+    <configuration name="claases con nelson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ejercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios solos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios solos/claases con nelson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clase_carros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ejercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia 6/nelson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia 6/nelson/clase_carros.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excepciones y decoradores " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ejercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excepciones y decoradores .py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tareasnelson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ejercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ejercicios solos" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicios solos/tareasnelson.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trabajo del dia 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ejercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dia 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dia 2/trabajo del dia 2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trabajo del dia 2" />
+        <item itemvalue="Python.clase_carros" />
+        <item itemvalue="Python.tareasnelson" />
+        <item itemvalue="Python.claases con nelson" />
+        <item itemvalue="Python.excepciones y decoradores " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40b22d58-b93c-49af-b2c1-fae7a86ce01c" name="Changes" comment="" />
+      <created>1687269098751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687269098751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/excepciones y decoradores .py</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

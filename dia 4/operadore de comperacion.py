@@ -15,8 +15,8 @@ mi_bool = "100" == 100
 mi_bool ="blanco"=="negro"
 print
 # = se asigna un valor a algo
-# mi_variable = "hola mundo"
-# == compara algo
+ #mi_variable = "hola mundo"
+ #== compara algo
 
 # para la diferencia
 mi_bool = 100!= 99

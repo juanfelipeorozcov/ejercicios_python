@@ -1,7 +1,11 @@
-# strings se puede generar espasios colocando tres comillas seguidas
-poema = """Mil pequelos peces blancos
-como si hirviera el color del agua """
-print(poema)
-print("agua" in poema) # esta linea asi puedo preguntar si la pal agua esta en el poema sale true o falso
+def hanoi (n,origen,destino,auxiliar):
+    if n == 1:
+        print (f"mueve el disco 1 de {origen} a {destino}")
+        return
+    hanoi(n-1, origen, auxiliar, destino)
+    print(f"mueve el disco {n} de {origen} a {destino}")
+    hanoi(n-1, auxiliar, destino, origen)
 
-print(len(poema)) # con esta linea podemos mirar la cantidad de letras en el poema
+
+n = 3
+hanoi(n,"A","B","C")
